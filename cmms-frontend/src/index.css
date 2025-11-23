@@ -1,0 +1,11 @@
+@import './assets/styles/index.css';
+
+/* additional app-level overrides (kept from starter) */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
